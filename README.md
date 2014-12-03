@@ -1,4 +1,4 @@
-cornball-api
-============
+cornball-azure
+==============
 
-Cornball REST API
+Cornball REST API and Windows Azure deployment
