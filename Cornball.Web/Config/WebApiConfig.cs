@@ -12,7 +12,7 @@ namespace Cornball.Web.Config
 
             config.Routes.MapHttpRoute(
                 name: "HighScores",
-                routeTemplate: "api/{controller}//{startDate}/{endDate}",
+                routeTemplate: "api/{controller}/{startDate}/{endDate}",
                 defaults: new { startDate = RouteParameter.Optional, endDate = RouteParameter.Optional }
             );
 
