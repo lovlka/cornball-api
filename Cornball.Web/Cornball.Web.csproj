@@ -125,6 +125,339 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="..\..\cornball-js\public\deck\10C.svg">
+      <Link>deck\10C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\10D.svg">
+      <Link>deck\10D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\10H.svg">
+      <Link>deck\10H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\10S.svg">
+      <Link>deck\10S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\2C.svg">
+      <Link>deck\2C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\2D.svg">
+      <Link>deck\2D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\2H.svg">
+      <Link>deck\2H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\2S.svg">
+      <Link>deck\2S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\3C.svg">
+      <Link>deck\3C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\3D.svg">
+      <Link>deck\3D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\3H.svg">
+      <Link>deck\3H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\3S.svg">
+      <Link>deck\3S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\4C.svg">
+      <Link>deck\4C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\4D.svg">
+      <Link>deck\4D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\4H.svg">
+      <Link>deck\4H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\4S.svg">
+      <Link>deck\4S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\5C.svg">
+      <Link>deck\5C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\5D.svg">
+      <Link>deck\5D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\5H.svg">
+      <Link>deck\5H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\5S.svg">
+      <Link>deck\5S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\6C.svg">
+      <Link>deck\6C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\6D.svg">
+      <Link>deck\6D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\6H.svg">
+      <Link>deck\6H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\6S.svg">
+      <Link>deck\6S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\7C.svg">
+      <Link>deck\7C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\7D.svg">
+      <Link>deck\7D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\7H.svg">
+      <Link>deck\7H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\7S.svg">
+      <Link>deck\7S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\8C.svg">
+      <Link>deck\8C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\8D.svg">
+      <Link>deck\8D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\8H.svg">
+      <Link>deck\8H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\8S.svg">
+      <Link>deck\8S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\9C.svg">
+      <Link>deck\9C.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\9D.svg">
+      <Link>deck\9D.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\9H.svg">
+      <Link>deck\9H.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\9S.svg">
+      <Link>deck\9S.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\AC.svg">
+      <Link>deck\AC.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\AD.svg">
+      <Link>deck\AD.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\AH.svg">
+      <Link>deck\AH.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\AS.svg">
+      <Link>deck\AS.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\back.png">
+      <Link>deck\back.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c1.png">
+      <Link>deck\c1.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c10.png">
+      <Link>deck\c10.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c11.png">
+      <Link>deck\c11.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c12.png">
+      <Link>deck\c12.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c13.png">
+      <Link>deck\c13.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c2.png">
+      <Link>deck\c2.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c3.png">
+      <Link>deck\c3.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c4.png">
+      <Link>deck\c4.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c5.png">
+      <Link>deck\c5.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c6.png">
+      <Link>deck\c6.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c7.png">
+      <Link>deck\c7.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c8.png">
+      <Link>deck\c8.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\c9.png">
+      <Link>deck\c9.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d1.png">
+      <Link>deck\d1.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d10.png">
+      <Link>deck\d10.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d11.png">
+      <Link>deck\d11.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d12.png">
+      <Link>deck\d12.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d13.png">
+      <Link>deck\d13.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d2.png">
+      <Link>deck\d2.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d3.png">
+      <Link>deck\d3.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d4.png">
+      <Link>deck\d4.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d5.png">
+      <Link>deck\d5.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d6.png">
+      <Link>deck\d6.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d7.png">
+      <Link>deck\d7.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d8.png">
+      <Link>deck\d8.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\d9.png">
+      <Link>deck\d9.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h1.png">
+      <Link>deck\h1.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h10.png">
+      <Link>deck\h10.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h11.png">
+      <Link>deck\h11.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h12.png">
+      <Link>deck\h12.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h13.png">
+      <Link>deck\h13.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h2.png">
+      <Link>deck\h2.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h3.png">
+      <Link>deck\h3.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h4.png">
+      <Link>deck\h4.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h5.png">
+      <Link>deck\h5.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h6.png">
+      <Link>deck\h6.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h7.png">
+      <Link>deck\h7.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h8.png">
+      <Link>deck\h8.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\h9.png">
+      <Link>deck\h9.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\JC.svg">
+      <Link>deck\JC.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\JD.svg">
+      <Link>deck\JD.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\JH.svg">
+      <Link>deck\JH.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\JS.svg">
+      <Link>deck\JS.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\KC.svg">
+      <Link>deck\KC.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\KD.svg">
+      <Link>deck\KD.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\KH.svg">
+      <Link>deck\KH.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\KS.svg">
+      <Link>deck\KS.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\QC.svg">
+      <Link>deck\QC.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\QD.svg">
+      <Link>deck\QD.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\QH.svg">
+      <Link>deck\QH.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\QS.svg">
+      <Link>deck\QS.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s1.png">
+      <Link>deck\s1.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s10.png">
+      <Link>deck\s10.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s11.png">
+      <Link>deck\s11.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s12.png">
+      <Link>deck\s12.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s13.png">
+      <Link>deck\s13.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s2.png">
+      <Link>deck\s2.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s3.png">
+      <Link>deck\s3.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s4.png">
+      <Link>deck\s4.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s5.png">
+      <Link>deck\s5.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s6.png">
+      <Link>deck\s6.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s7.png">
+      <Link>deck\s7.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s8.png">
+      <Link>deck\s8.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\deck\s9.png">
+      <Link>deck\s9.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\favicon.ico">
+      <Link>favicon.ico</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\fonts\fontawesome-webfont.svg">
+      <Link>fonts\fontawesome-webfont.svg</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\images\victor.png">
+      <Link>images\victor.png</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\index.html">
+      <Link>index.html</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\javascripts\cornball.js">
+      <Link>javascripts\cornball.js</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\stylesheets\cornball.css">
+      <Link>stylesheets\cornball.css</Link>
+    </Content>
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -144,7 +477,32 @@
   <ItemGroup>
     <Content Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Content Include="..\..\cornball-js\public\fonts\fontawesome-webfont.eot">
+      <Link>fonts\fontawesome-webfont.eot</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\fonts\fontawesome-webfont.ttf">
+      <Link>fonts\fontawesome-webfont.ttf</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\fonts\fontawesome-webfont.woff">
+      <Link>fonts\fontawesome-webfont.woff</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\fonts\FontAwesome.otf">
+      <Link>fonts\FontAwesome.otf</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\javascripts\cornball.js.map">
+      <Link>javascripts\cornball.js.map</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\locales\en\translation.json">
+      <Link>locales\en\translation.json</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\locales\sv\translation.json">
+      <Link>locales\sv\translation.json</Link>
+    </Content>
+    <Content Include="..\..\cornball-js\public\stylesheets\cornball.css.map">
+      <Link>stylesheets\cornball.css.map</Link>
+    </Content>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
